@@ -1,5 +1,5 @@
-# AWS-VPC-with-CloudFormation
-AWS CloudFormation template that creates an Amazon VPC
+## AWS-VPC-with-CloudFormation
+### AWS CloudFormation template that creates an Amazon VPC
 
 Here are the resources of VPC that have been created by CloudFormation:
 
@@ -10,5 +10,5 @@ Here are the resources of VPC that have been created by CloudFormation:
   	• 1 Private Route Table
   	• 1 Public Route Table
 
-
+ 
  
